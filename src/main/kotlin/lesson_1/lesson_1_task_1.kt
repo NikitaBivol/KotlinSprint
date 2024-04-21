@@ -1,6 +1,4 @@
 package lesson_1
 
-fun main() {
-
-    println("Это решение задачи 1 из урока 1")
-}
+var numberOfOrders = 75
+const val thankYouText = "Бдагодарим Вас за покупку! Ждем Вас снова!"
